@@ -8,5 +8,5 @@ setup(
     author='jjakimoto',
     author_email='f.j.akimoto@gmail.com',
     packages=find_packages(),
-    py_modeuls=["finance_ml"]
+    py_modules=["finance_ml"]
 )
